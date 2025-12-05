@@ -1,0 +1,184 @@
+=== 日志记录已启用，输出将保存到: dbscan_log.txt ===
+eps:  1
+neib:  6
+labels set:  {0, 1, -1}
+sse:  3314.027777416003
+eps:  1
+neib:  8
+labels set:  {-1}
+sse:  3366.2561560012273
+eps:  1
+neib:  10
+labels set:  {-1}
+sse:  3366.2561560012273
+eps:  1
+neib:  12
+labels set:  {-1}
+sse:  3366.2561560012273
+eps:  1
+neib:  14
+labels set:  {-1}
+sse:  3366.2561560012273
+eps:  1
+neib:  16
+labels set:  {-1}
+sse:  3366.2561560012273
+eps:  1
+neib:  18
+labels set:  {-1}
+sse:  3366.2561560012273
+eps:  1
+neib:  20
+labels set:  {-1}
+sse:  3366.2561560012273
+eps:  1
+neib:  22
+labels set:  {-1}
+sse:  3366.2561560012273
+eps:  2
+neib:  6
+labels set:  {0, -1}
+sse:  2889.8530735353565
+eps:  2
+neib:  8
+labels set:  {0, -1}
+sse:  2937.841913600976
+eps:  2
+neib:  10
+labels set:  {0, 1, -1}
+sse:  2745.2996736985674
+eps:  2
+neib:  12
+labels set:  {0, 1, -1}
+sse:  2683.237697011516
+eps:  2
+neib:  14
+labels set:  {0, 1, -1}
+sse:  2588.466423674613
+eps:  2
+neib:  16
+labels set:  {0, 1, -1}
+sse:  2557.0399822096433
+eps:  2
+neib:  18
+labels set:  {0, 1, -1}
+sse:  2585.4244453822353
+eps:  2
+neib:  20
+labels set:  {0, -1}
+sse:  2602.826462700049
+eps:  2
+neib:  22
+labels set:  {0, -1}
+sse:  2646.7147074865097
+eps:  3
+neib:  6
+labels set:  {0, -1}
+sse:  2880.742305605667
+eps:  3
+neib:  8
+labels set:  {0, -1}
+sse:  2880.742305605667
+eps:  3
+neib:  10
+labels set:  {0, -1}
+sse:  2883.1351136602793
+eps:  3
+neib:  12
+labels set:  {0, -1}
+sse:  2818.14381784733
+eps:  3
+neib:  14
+labels set:  {0, -1}
+sse:  2822.9335772690774
+eps:  3
+neib:  16
+labels set:  {0, -1}
+sse:  2812.511966730258
+eps:  3
+neib:  18
+labels set:  {0, -1}
+sse:  2784.7084216143576
+eps:  3
+neib:  20
+labels set:  {0, -1}
+sse:  2743.5305859548025
+eps:  3
+neib:  22
+labels set:  {0, -1}
+sse:  2727.2665656372474
+eps:  4
+neib:  6
+labels set:  {0, -1}
+sse:  3105.7074823535195
+eps:  4
+neib:  8
+labels set:  {0, -1}
+sse:  3086.9889000066805
+eps:  4
+neib:  10
+labels set:  {0, -1}
+sse:  3086.9889000066805
+eps:  4
+neib:  12
+labels set:  {0, -1}
+sse:  3030.44236044436
+eps:  4
+neib:  14
+labels set:  {0, -1}
+sse:  2867.5756115094114
+eps:  4
+neib:  16
+labels set:  {0, -1}
+sse:  2882.5838889902525
+eps:  4
+neib:  18
+labels set:  {0, -1}
+sse:  2863.2304355077863
+eps:  4
+neib:  20
+labels set:  {0, -1}
+sse:  2863.2304355077863
+eps:  4
+neib:  22
+labels set:  {0, -1}
+sse:  2863.2304355077863
+eps:  5
+neib:  6
+labels set:  {0, -1}
+sse:  3196.369681666625
+eps:  5
+neib:  8
+labels set:  {0, -1}
+sse:  3196.369681666625
+eps:  5
+neib:  10
+labels set:  {0, -1}
+sse:  3196.369681666625
+eps:  5
+neib:  12
+labels set:  {0, -1}
+sse:  3196.369681666625
+eps:  5
+neib:  14
+labels set:  {0, -1}
+sse:  3057.123601899787
+eps:  5
+neib:  16
+labels set:  {0, -1}
+sse:  3057.123601899787
+eps:  5
+neib:  18
+labels set:  {0, -1}
+sse:  3057.123601899787
+eps:  5
+neib:  20
+labels set:  {0, -1}
+sse:  2925.96243410756
+eps:  5
+neib:  22
+labels set:  {0, -1}
+sse:  2925.96243410756
+min_sse:  2602.826462700049
+best_eps:  2
+best_neib 20

@@ -1,0 +1,1 @@
+    logger = Logger("dbscan_log.txt", auto_save=True)
