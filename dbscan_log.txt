@@ -1,4 +1,4 @@
-=== 日志记录已启用，输出将保存到: dbscan_log.txt ===
+=== Logger Start, Log Save To: dbscan_log.txt ===
 eps:  1
 neib:  6
 labels set:  {0, 1, -1}

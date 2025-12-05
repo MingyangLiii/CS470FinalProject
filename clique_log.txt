@@ -1,4 +1,4 @@
-=== 日志记录已启用，输出将保存到: clique_log.txt ===
+=== Logger Start, Log Save To: clique_log.txt ===
         PC1       PC2       PC3       PC4       PC5  diagnosis
 0  4.555816 -2.172858 -1.777009  0.863512 -1.101421          1
 1 -0.006561  1.063214 -1.241218  0.980321  0.868852          1
