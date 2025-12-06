@@ -92,17 +92,22 @@ def experiment():
             sse = calculate_sse(df_out)
             print("sse: ", sse)
 
+
             if sse < min_sse and len(set(labels)) == 2:
                 min_sse = sse
                 best_eps = eps
-                best_neib = neib           
+                best_neib = neib 
+                          
             
             if len(set(labels)) == 2:
+                score = silhouette_score(df, labels)
+                print("score: ", score)
+
                 results_grid.append(
                     {"eps":eps,
                     "neighbors":neib,
                     "sse": sse,
-                    "silhouette_score": silhouette_score(df, labels)
+                    "silhouette_score": score
                     }
                 )
 

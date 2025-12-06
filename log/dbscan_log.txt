@@ -3,6 +3,16 @@ eps:  1
 neib:  6
 labels set:  {0, 1, -1}
 sse:  3314.027777416003
+silhouette_score:  -0.3018218228251176
+eps:  1
+neib:  8
+labels set:  {-1}
+sse:  3366.2561560012273
+=== Logger Start, Log Save To: dbscan_log.txt ===
+eps:  1
+neib:  6
+labels set:  {0, 1, -1}
+sse:  3314.027777416003
 eps:  1
 neib:  8
 labels set:  {-1}
@@ -107,78 +117,218 @@ eps:  3
 neib:  22
 labels set:  {0, -1}
 sse:  2727.2665656372474
+=== Logger Start, Log Save To: dbscan_log.txt ===
+eps:  1
+neib:  6
+labels set:  {0, 1, -1}
+sse:  3314.027777416003
+eps:  1
+neib:  8
+labels set:  {-1}
+sse:  3366.2561560012273
+eps:  1
+neib:  10
+labels set:  {-1}
+sse:  3366.2561560012273
+eps:  1
+neib:  12
+labels set:  {-1}
+sse:  3366.2561560012273
+eps:  1
+neib:  14
+labels set:  {-1}
+sse:  3366.2561560012273
+eps:  1
+neib:  16
+labels set:  {-1}
+sse:  3366.2561560012273
+eps:  1
+neib:  18
+labels set:  {-1}
+sse:  3366.2561560012273
+eps:  1
+neib:  20
+labels set:  {-1}
+sse:  3366.2561560012273
+eps:  1
+neib:  22
+labels set:  {-1}
+sse:  3366.2561560012273
+eps:  2
+neib:  6
+labels set:  {0, -1}
+sse:  2889.8530735353565
+score:  0.30304666203836605
+eps:  2
+neib:  8
+labels set:  {0, -1}
+sse:  2937.841913600976
+score:  0.27717755329261085
+eps:  2
+neib:  10
+labels set:  {0, 1, -1}
+sse:  2745.2996736985674
+eps:  2
+neib:  12
+labels set:  {0, 1, -1}
+sse:  2683.237697011516
+eps:  2
+neib:  14
+labels set:  {0, 1, -1}
+sse:  2588.466423674613
+eps:  2
+neib:  16
+labels set:  {0, 1, -1}
+sse:  2557.0399822096433
+eps:  2
+neib:  18
+labels set:  {0, 1, -1}
+sse:  2585.4244453822353
+eps:  2
+neib:  20
+labels set:  {0, -1}
+sse:  2602.826462700049
+score:  0.23185978577500962
+eps:  2
+neib:  22
+labels set:  {0, -1}
+sse:  2646.7147074865097
+score:  0.21180049622369834
+eps:  3
+neib:  6
+labels set:  {0, -1}
+sse:  2880.742305605667
+score:  0.43833493354264275
+eps:  3
+neib:  8
+labels set:  {0, -1}
+sse:  2880.742305605667
+score:  0.43833493354264275
+eps:  3
+neib:  10
+labels set:  {0, -1}
+sse:  2883.1351136602793
+score:  0.4275741614892794
+eps:  3
+neib:  12
+labels set:  {0, -1}
+sse:  2818.14381784733
+score:  0.4221003807983568
+eps:  3
+neib:  14
+labels set:  {0, -1}
+sse:  2822.9335772690774
+score:  0.42023551862735203
+eps:  3
+neib:  16
+labels set:  {0, -1}
+sse:  2812.511966730258
+score:  0.41892067573845276
+eps:  3
+neib:  18
+labels set:  {0, -1}
+sse:  2784.7084216143576
+score:  0.4136868515104598
+eps:  3
+neib:  20
+labels set:  {0, -1}
+sse:  2743.5305859548025
+score:  0.4023855794150737
+eps:  3
+neib:  22
+labels set:  {0, -1}
+sse:  2727.2665656372474
+score:  0.40055869456704557
 eps:  4
 neib:  6
 labels set:  {0, -1}
 sse:  3105.7074823535195
+score:  0.5028863853057094
 eps:  4
 neib:  8
 labels set:  {0, -1}
 sse:  3086.9889000066805
+score:  0.5014897215743759
 eps:  4
 neib:  10
 labels set:  {0, -1}
 sse:  3086.9889000066805
+score:  0.5014897215743759
 eps:  4
 neib:  12
 labels set:  {0, -1}
 sse:  3030.44236044436
+score:  0.49388599044037307
 eps:  4
 neib:  14
 labels set:  {0, -1}
 sse:  2867.5756115094114
+score:  0.47615623174618293
 eps:  4
 neib:  16
 labels set:  {0, -1}
 sse:  2882.5838889902525
+score:  0.4722579415716256
 eps:  4
 neib:  18
 labels set:  {0, -1}
 sse:  2863.2304355077863
+score:  0.4701776177531261
 eps:  4
 neib:  20
 labels set:  {0, -1}
 sse:  2863.2304355077863
+score:  0.4701776177531261
 eps:  4
 neib:  22
 labels set:  {0, -1}
 sse:  2863.2304355077863
+score:  0.4701776177531261
 eps:  5
 neib:  6
 labels set:  {0, -1}
 sse:  3196.369681666625
+score:  0.5548698969222728
 eps:  5
 neib:  8
 labels set:  {0, -1}
 sse:  3196.369681666625
+score:  0.5548698969222728
 eps:  5
 neib:  10
 labels set:  {0, -1}
 sse:  3196.369681666625
+score:  0.5548698969222728
 eps:  5
 neib:  12
 labels set:  {0, -1}
 sse:  3196.369681666625
+score:  0.5548698969222728
 eps:  5
 neib:  14
 labels set:  {0, -1}
 sse:  3057.123601899787
+score:  0.5192201549729599
 eps:  5
 neib:  16
 labels set:  {0, -1}
 sse:  3057.123601899787
+score:  0.5192201549729599
 eps:  5
 neib:  18
 labels set:  {0, -1}
 sse:  3057.123601899787
+score:  0.5192201549729599
 eps:  5
 neib:  20
 labels set:  {0, -1}
 sse:  2925.96243410756
+score:  0.498936330828884
 eps:  5
 neib:  22
 labels set:  {0, -1}
 sse:  2925.96243410756
+score:  0.498936330828884
 min_sse:  2602.826462700049
 best_eps:  2
 best_neib 20

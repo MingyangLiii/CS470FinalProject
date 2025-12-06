@@ -133,12 +133,13 @@ def experiment_clique():
         print(f"Clusters: {len(set(labels))}, SSE: {sse}")
         
         if sse < min_sse and len(set(labels)) == 2:
-            score = silhouette_score(df, labels)
             min_sse = sse
             best_params = (xi, tau)
             best_labels = labels
 
         if len(set(labels)) == 2:
+            score = silhouette_score(df, labels)
+            print("score: ", score)
             results_grid.append(
                 {"tau":tau,
                 "xi":xi,
