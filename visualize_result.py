@@ -138,7 +138,7 @@ def main():
     path = "preprocessed_data.csv"
     df = pd.read_csv(path)
     features = ["PC1", "PC2", "PC3", "PC4", "PC5"]
-    scatter_plot_all(df, features)
+    scatter_plot(df, "PC1", "PC2", "diagnosis", "Label")
 
 
 
